@@ -1,4 +1,4 @@
-## Hi! I'm Hosana Soares🌠
+## Olá! Sou Hosana Soares🌠
 Estudante do Técnico em Informática, apaixonada pela leitura, aspirante da tecologia e do conhecimento, obcecada pelo mundo da música e possuo um forte fascínio pelo universo da arte :)
 
 ## 🌎 Studying: <br>
