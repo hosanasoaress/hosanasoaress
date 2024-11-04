@@ -14,7 +14,7 @@ Estudante de Técnico em Informática, leitora ativa, obcecada pela tecologia, m
 <hr>
 <div>
 <a href="https://github.com/hosanasoaress/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=hosanasoaress&show_icons=true&theme=merko" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=hosanasoaress&show_icons=true&theme=mirtilo" />
 </a>
 <a href="https://github.com/MarcyIvi/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MarcyIvi&layout=donut&langs_count=8&card_width=320i&show_icons=true&theme=radical" />
