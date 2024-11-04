@@ -33,9 +33,7 @@ Estudante do Técnico em Informática, apaixonada pela leitura, aspirante da tec
 
   <a>
   <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" >
-        Gmail
-    </button>
-</a>r>
+     
   </a>
 
 </div>
