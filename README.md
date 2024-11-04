@@ -1,5 +1,5 @@
 ## Hi! I'm Hosana Soares🌠
-Estudante do Técnico em Informática, leitora ativa, obcecada pela tecologia, música e pela arte :)
+Estudante do Técnico em Informática,apaixonada pela leitura, aspirante da tecologia e conhecimento, obcecada pelo mundo da música e possuo um forte fascínio pelo universo da arte **:)** 
 
 ## 🌎 Studying: <br>
 
