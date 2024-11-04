@@ -32,8 +32,7 @@ Estudante do Técnico em Informática, apaixonada pela leitura, aspirante da tec
 <div> 
 
   <a>
-  <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" <a href="https://gmail.google.com" target="_blank">
-    <button style="background-color: #d93025; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">
+  <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" >
         Gmail
     </button>
 </a>r>
