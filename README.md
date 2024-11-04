@@ -32,7 +32,7 @@ Estudante do Técnico em Informática, apaixonada pela leitura, aspirante da tec
 <div> 
 
   <a>
-  <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /https://gmail.com/hosana.clara@aluno.ifce.edu.br>
   </a>
 
 </div>
