@@ -14,7 +14,7 @@ Estudante de Técnico em Informática, leitora ativa, obcecada pela tecologia, m
 ## 📞 Contatos
 - Email: hosana.clara@aluno.ifce.edu.br
 - Instagram: [@hosanaasoaress](https://www.instagram.com/hosanaasoaress/)
-- 
+
 <hr>
 <div>
 <a href="https://github.com/hosanasoaress/github-readme-stats">
