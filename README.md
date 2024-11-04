@@ -21,7 +21,7 @@ Estudante do Técnico em Informática, apaixonada pela leitura, aspirante da tec
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=hosanasoaress&show_icons=true&theme=cobalt" />
 </a>
 <a href="https://github.com/hosanasoaress/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MarcyIvi&layout=donut&langs_count=8&card_width=320i&show_icons=true&theme=cobalt" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hosanasoaress&layout=donut&langs_count=8&card_width=320i&show_icons=true&theme=cobalt" />
 </a>
 </div>
 
@@ -31,10 +31,7 @@ Estudante do Técnico em Informática, apaixonada pela leitura, aspirante da tec
 
 <div> 
 
-  <a>
-  <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" >
-     
-  </a>
+<a href = "mailto:hosana.clara@aluno.ifce.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 </div>
 
