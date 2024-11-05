@@ -46,10 +46,7 @@ Sou estudante do IFCE campus Maranguape, cursando o Técnico em Informática. Ne
 </table>
     <td align="center"><img src="https://github-profile-trophy.vercel.app/?username=hosanasoaress&theme=cobalt&column=3&margin-w=15&margin-h=15" alt="Troféus do GitHub"/></td>
   </tr>
-  <tr>
-    <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=hosanasoaress&show_icons=true&theme=cobalt" alt="Estatísticas do GitHub" /></td>
-    <td align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hosanasoaress&theme=cobalt" alt="Contribuições recentes"/></td>
-  </tr>
+  
 </table>
 
 <br>
