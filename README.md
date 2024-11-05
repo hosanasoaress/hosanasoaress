@@ -2,7 +2,7 @@
 Sou estudante do IFCE campus Maranguape, cursando o Técnico em Informática. Nesse GitHub há exercícios e desenvolvimento de programas envolvendo linguagens de programação. 
 
 -------
-## ⭐ Preferências:
+## 🌟 Preferências:
 
 - 📚 Livros
 - 🎨 Arte
@@ -36,7 +36,10 @@ Sou estudante do IFCE campus Maranguape, cursando o Técnico em Informática. Ne
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hosanasoaress&layout=donut&langs_count=8&card_width=320i&show_icons=true&theme=cobalt" />
 </a>
  </a>
-<a href="https://github.com/MarcyIvi/github-readme-streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MarcyIvi&theme=radical" alt="Contribuições recentes"</a>
+<a href="https://github.com/hosanasoaress/github-readme-streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hosanasoaress&theme=radical" alt="Contribuições recentes"</a>
+  <a href="https://github.com/hosanasoaress/github-profile-trophy">
+        <img height="200" src="https://github-profile-trophy.vercel.app/?username=hosanasoaress&theme=radical&column=3" alt="Troféus do GitHub">
+    </a>
 </div>
 </div>
 
