@@ -32,12 +32,12 @@ Sou estudante do IFCE campus Maranguape, cursando o Técnico em Informática. Ne
  
 <table align="center">
   <tr>
-    <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fcisraelalves&layout=compact&theme=radical" alt="Linguagens mais usadas"/></td>
-    <td align="center"><img src="https://github-profile-trophy.vercel.app/?username=Fcisraelalves&theme=radical&column=3&margin-w=15&margin-h=15" alt="Troféus do GitHub"/></td>
+    <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hosanasoaress&layout=compact&theme=cobalt" alt="Linguagens mais usadas"/></td>
+    <td align="center"><img src="https://github-profile-trophy.vercel.app/?username=hosanasoaress&theme=cobalt&column=3&margin-w=15&margin-h=15" alt="Troféus do GitHub"/></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=Fcisraelalves&show_icons=true&theme=radical" alt="Estatísticas do GitHub" /></td>
-    <td align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Fcisraelalves&theme=radical" alt="Contribuições recentes"/></td>
+    <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=hosanasoaresss&show_icons=true&theme=cobalt" alt="Estatísticas do GitHub" /></td>
+    <td align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hosanasoaress&theme=cobalt" alt="Contribuições recentes"/></td>
   </tr>
 </table>
 
