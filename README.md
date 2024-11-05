@@ -23,6 +23,9 @@ Estudante do Técnico em Informática, apaixonada pela leitura, aspirante da tec
 <a href="https://github.com/hosanasoaress/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hosanasoaress&layout=donut&langs_count=8&card_width=320i&show_icons=true&theme=cobalt" />
 </a>
+ </a>
+<a href="https://github.com/MarcyIvi/github-readme-streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MarcyIvi&theme=radical" alt="Contribuições recentes"</a>
+</div>
 </div>
 
 <br>
