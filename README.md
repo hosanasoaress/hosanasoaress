@@ -35,7 +35,7 @@ Estudante do Técnico em Informática, apaixonada pela leitura, aspirante da tec
 <div> 
 
 <a href = "mailto:hosana.clara@aluno.ifce.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-[![Gmail](https://img.icons8.com/fluency/48/000000/gmail.png)](mailto:sousamaciel@aluno.ifce.edu.br)
+
 
 </div>
 
