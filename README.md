@@ -21,6 +21,10 @@ Sou estudante do IFCE campus Maranguape, cursando o Técnico em Informática. Ne
 ➮ 💫 Eletrônica <br>
 ➮ 💫 Desenvolvimento Web <br>
 
+## Projeto de POO:
+- Project 2: [POO projects.](https://github.com/hosanasoaress/CTI-P4-POO-20242-LISTA01)
+
+
 ## 📞 Contatos:
 - Email: hosana.clara@aluno.ifce.edu.br
 - Instagram: [@hosanaasoaress](https://www.instagram.com/hosanaasoaress/)
