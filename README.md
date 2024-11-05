@@ -29,6 +29,7 @@ Sou estudante do IFCE campus Maranguape, cursando o Técnico em Informática. Ne
 
 <hr>
 
+ ## 🚀 Levantamentos:
  
 <table align="center">
   <tr>
