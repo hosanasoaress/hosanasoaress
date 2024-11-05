@@ -3,10 +3,12 @@ Sou estudante do IFCE campus Maranguape, cursando o Técnico em Informática. Ne
 
 -------
 ## ⭐ Preferências:
--📚 Livros
--🎨 Arte
--🎶 Música
--🎭 Teatro
+
+- 📚 Livros
+- 🎨 Arte
+- 🎶 Música
+- 🎭 Teatro
+
 -------
 ## 🌎 Studying: <br>
 
