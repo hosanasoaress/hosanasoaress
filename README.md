@@ -25,7 +25,6 @@ Sou estudante do IFCE campus Maranguape, cursando o Técnico em Informática. Ne
 - Email: hosana.clara@aluno.ifce.edu.br
 - Instagram: [@hosanaasoaress](https://www.instagram.com/hosanaasoaress/)
 
-----------
 
 <hr>
 
