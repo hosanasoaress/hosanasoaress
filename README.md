@@ -1,19 +1,29 @@
 ## Olá! Sou Hosana Soares🌠
-Estudante do Técnico em Informática, apaixonada pela leitura, aspirante da tecologia e do conhecimento, obcecada pelo mundo da música e possuo um forte fascínio pelo universo da arte :)
+Sou estudante do IFCE campus Maranguape, cursando o Técnico em Informática. Nesse GitHub há exercícios e desenvolvimento de programas envolvendo linguagens de programação. 
 
+-------
+## ⭐ Preferências:
+-📚 Livros
+-🎨 Arte
+-🎶 Música
+-🎭 Teatro
+-------
 ## 🌎 Studying: <br>
 
 <img src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor" width="40" height="40" alt="Java Icon"> <img src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" width="40" height="40" alt="Python Icon"> <img src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor" width="40" height="40" alt="HTML5 Icon"> <img src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor" width="40" height="40" alt="CSS Icon">
- 
+
+ --------
 ## 📃 Preferências: <br>
 
 ➮ Programação <br>
 ➮ Eletrônica <br>
-➮ Web <br>
+➮ Desenvolvimento Web <br>
 
 ## 📞 Contatos:
 - Email: hosana.clara@aluno.ifce.edu.br
 - Instagram: [@hosanaasoaress](https://www.instagram.com/hosanaasoaress/)
+
+----------
 
 <hr>
 <div>
