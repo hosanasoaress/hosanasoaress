@@ -56,7 +56,7 @@ Sou estudante do IFCE campus Maranguape, cursando o Técnico em Informática. Ne
 
 <p align="left">
   <a href="mailto:hosana.clara@aluno.ifce.edu.br" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="hosana.clara@aluno.ifce.edu.br" /></a> <a href="https://gitlab.com/hosanasoaress" /></a> 
- <img align="right" alt="Gatito Img" width="100" height="100" src="https://i.pinimg.com/564x/61/a8/89/61a889787b31c9ab0996a0d29f586d5a.jpg" >
+ <img align="right" alt="Gatito Img" width="100" height="100" src="https://aventurasnahistoria.com.br/media/_versions/2024/09/van-goghcuriosidades_widelg.jpg" >
 </p>
 
 
