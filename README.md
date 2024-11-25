@@ -54,7 +54,9 @@ Sou estudante do IFCE campus Maranguape, cursando o Técnico em Informática. Ne
 
 <div> 
 
-<a href = "mailto:hosana.clara@aluno.ifce.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<p align="left">
+  <a href="mailto:hosana.clara@aluno.ifce.edu.br" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="hosana.clara@aluno.ifce.edu.br" /></a> <a href="https://gitlab.com/hosanasoaress" /></a> 
+</p>
 
 
 </div>
