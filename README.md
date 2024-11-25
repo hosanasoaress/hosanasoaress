@@ -56,7 +56,7 @@ Sou estudante do IFCE campus Maranguape, cursando o Técnico em Informática. Ne
 
 <p align="left">
   <a href="mailto:hosana.clara@aluno.ifce.edu.br" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="hosana.clara@aluno.ifce.edu.br" /></a> <a href="https://gitlab.com/hosanasoaress" /></a> 
- <img align="right" alt="Gatito Img" width="100" height="100" src="https://br.pinterest.com/pin/4081455906277188/sent/?invite_code=88aebede38bc4c88a7d77e70c25480b0&sender=712483740957466267&sfo=1" >
+ <img align="right" alt="Gatito Img" width="100" height="100" src="https://pt.wikipedia.org/wiki/Vincent_van_Gogh#/media/Ficheiro:Vincent_van_Gogh_-_Self-Portrait_-_Google_Art_Project_(454045).jpg" >
 </p>
 
 
